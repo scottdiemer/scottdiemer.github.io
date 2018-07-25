@@ -45,11 +45,9 @@ h1 {
  .btn-primary:hover, .btn-primary:focus {
 	background-color: #98320f;
 	border-color: none;
-	box-shadow: 0 0 0 0.2rem rgba(0, 0, 0, 0.5);
 }
 
 .btn-primary:active, .btn-primary:not(:disabled):not(.disabled):active {
 	background-color: #74270b;
 	border-color: none;
-	box-shadow: 0 0 0 0.2rem rgba(0, 0, 0, 0.5);
 }
